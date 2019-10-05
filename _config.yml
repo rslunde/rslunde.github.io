@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Robert Lunde"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Robert Lunde"
+description              : &description "Postdoctoral Research Fellow, Department of Statistics and Data Sciences, University of Texas at Austin"
+url                      : https://rslunde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  name             : "Robert Lunde"
+  avatar           : "biophoto.jpg"
+  bio              : "Postdoctoral Research Fellow, Department of Statistics and Data Sciences, University of Texas at Austin"
+  location         : "Austin, Texas"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@cs.stanford.edu"
+  googlescholar    :
+  email            : "rlunde@utexas.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
@@ -168,16 +168,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  experience:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -205,7 +202,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: experience
     values:
       layout: single
       author_profile: true
@@ -214,7 +211,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
@@ -227,16 +224,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
       
 # Sass/SCSS
 sass:
@@ -248,7 +237,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
