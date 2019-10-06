@@ -12,16 +12,15 @@ main:
   #- title: "Talks"
    # url: /talks/    
   - title: "Experience"
-     url: /experience/    
-    
+     url: /experience/  
+
   # - title: "Portfolio"
   #   url: /portfolio/
-        
   #- title: "Blogs"
   #  url: /year-archive/
-    
+
   - title: "Contact"
     url: /contact/  
-    
+
   # - title: "Guide"
     # url: /markdown/
