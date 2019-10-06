@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 <br>
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
-<b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
-<i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
+Robert Lunde and Cosma Rohilla Shalizi (2017).
+[Bootstrapping Generalization Error Bounds for Time Series](https://arxiv.org/abs/1711.02834) <br> 
+<i>Arxiv e-prints</i>.
 
