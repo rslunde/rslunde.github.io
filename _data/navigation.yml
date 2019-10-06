@@ -2,7 +2,7 @@
 main:
   - title: "Bio"
     url: /bio/
-    
+
   - title: "Research"
     url: /research/
 
