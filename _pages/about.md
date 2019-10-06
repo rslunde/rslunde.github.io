@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am currently a Postdoctoral Fellow in the [Department of Statistics and Data Sciences](https://stat.utexas.edu) at the University of Texas at Austin, where I work with [Purnamrita Sarkar](https://psarkar.github.io/). <!–– [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)] ––>
