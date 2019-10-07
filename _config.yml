@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Robert Lunde"
   avatar           : "https://rslunde.github.io/files/my_photo.jpg"
-  bio              : "Postdoctoral Research Fellow, Department of Statistics and Data Sciences, University of Texas at Austin"
+  bio              : "Postdoctoral Fellow, Department of Statistics and Data Sciences, University of Texas at Austin"
   location         : "Austin, Texas"
   employer         : 
   googlescholar    :
@@ -168,7 +168,7 @@ kramdown:
 
 # Collections
 collections:
-  experience:
+  teaching:
     output: true
     permalink: /:collection/:path/
   research:
