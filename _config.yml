@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Robert Lunde"
 title_separator          : "-"
 name                     : &name "Robert Lunde"
-description              : &description "Postdoctoral Research Fellow | @ | Department of Statistics and Data Sciences, | University of Texas at Austin"
+description              : &description "Postdoctoral Fellow, Department of Statistics and Data Sciences, University of Texas at Austin"
 url                      : https://rslunde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rslunde.github.io"       
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Robert Lunde"
-  avatar           : "biophoto.jpg"
+  avatar           : "https://rslunde.github.io/files/my_photo.jpg"
   bio              : "Postdoctoral Research Fellow, Department of Statistics and Data Sciences, University of Texas at Austin"
   location         : "Austin, Texas"
   employer         : 
