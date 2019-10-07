@@ -5,9 +5,8 @@ author_profile: true
 ---
 <br>
 Robert Lunde and Purnamrita Sarkar (2019). [Subsampling Sparse Graphons Under Minimal Assumptions.](https://arxiv.org/abs/1907.12528)  <i>Arxiv e-prints</i>.
-> <pre> <i>Abstract: </i> <pre>
-> 
-> <pre> <b>Keywords:</b> <pre> networks, sparse graphons, subsampling, eigenvalues, weak convergence 
+ > <i>Abstract: </i>
+ > <b>Keywords:</b> networks, sparse graphons, subsampling, eigenvalues, weak convergence 
 
 Robert Lunde (2019). [Sample Splitting and Weak Assumption Inference for Time Series.](https://arxiv.org/abs/1902.07425)  <i>Arxiv e-prints</i>.
 
