@@ -14,7 +14,7 @@ Robert Lunde (2019). [Sample Splitting and Weak Assumption Inference for Time Se
 
 Robert Lunde and Cosma Rohilla Shalizi (2017). [Bootstrapping Generalization Error Bounds for Time Series.](https://arxiv.org/abs/1711.02834)  <i>Arxiv e-prints</i>.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Keywords: time series, statistical learning, empirical     
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; processes,bootstrap
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; processes, bootstrap
 
 
 
