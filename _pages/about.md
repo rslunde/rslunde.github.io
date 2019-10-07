@@ -8,7 +8,7 @@ redirect_from:
   - /bio.html
 ---
 <p align="center">
- <img src="https://rslunde.github.io/files/my_photo.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
+ <img src="https://rslunde.github.io/files/my_photo.jpg?raw=true" alt="Photo" style="width: 260px;"/> 
 </p>
 
 
