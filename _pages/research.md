@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Robert Lunde and Purnamrita Sarkar (2019). [Subsampling Sparse Graphons Under Minimal Assumptions.] (https://arxiv.org/pdf/1907.12528.pdf) <i>Under review</i>.    
+Robert Lunde and Purnamrita Sarkar (2019). [Subsampling Sparse Graphons Under Minimal Assumptions.](https://arxiv.org/pdf/1907.12528.pdf) <i>Under review</i>.    
 
 <i>Summary:</i> We establish a general theory of subsampling for sparse
 graphons; the main requirement is weak convergence of the functional of interest. Under appropriate sparsity
