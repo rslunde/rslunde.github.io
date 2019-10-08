@@ -28,7 +28,7 @@ Robert Lunde and Cosma Rohilla Shalizi (2017). [Bootstrapping Generalization Err
 <i>Summary:</i> We establish conditions under which a bootstrap estimator of the generalization error may be
 used to construct valid confidence intervals for the risk of a time series model.  We show that autoregressive
 models satisfy the conditions in our theorem even when the model is badly misspecified.  We also show that
-empirical processes formed by splitting a &beta;-mixing process in half are asympotically independent.  
+empirical processes formed by splitting a &beta;-mixing process in half are asymptotically independent.  
 
 <i>Keywords:</i> time series, statistical learning, empirical processes, bootstrap
 
