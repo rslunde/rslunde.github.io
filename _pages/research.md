@@ -15,7 +15,7 @@ low-rank assumption on the graphon.  Under appropriate conditions, our weak conv
 Robert Lunde (2019). [Sample Splitting and Weak Assumption Inference for Time Series.](https://arxiv.org/pdf/1902.07425.pdf)  <i>In revision</i>.  
 
 <i>Summary:</i> We establish conditions under which sample splitting remains asymptotically valid under
-appropriate dependence conditions.  In addition,we establish a non-stationary central limit theorem by
+appropriate dependence conditions.  In addition, we establish a non-stationary central limit theorem by
 combining the Dependent Lindeberg Method of Bardet et al. (2008) with a phenemonon involving the variance of
 weakly dependent sequences.  Using this central limit theorem, we also prove the validity of a block-
 multiplier bootstrap under &theta;-dependence and mean-stationarity.   
