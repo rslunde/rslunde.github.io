@@ -12,7 +12,7 @@ low-rank assumption on the graphon.  Under appropriate conditions, our weak conv
 
 <i>Keywords:</i> networks, sparse graphons, subsampling, eigenvalues, weak convergence  
 
-Robert Lunde (2019). [Sample Splitting and Weak Assumption Inference for Time Series.](https://arxiv.org/abs/1902.07425)  <i>In revision</i>.  
+Robert Lunde (2019). [Sample Splitting and Weak Assumption Inference for Time Series.](https://arxiv.org/pdf/1902.07425.pdf)  <i>In revision</i>.  
 
 <i>Summary:</i> We establish conditions under which sample splitting remains asymptotically valid under
 appropriate dependence conditions.  In addition,we establish a non-stationary central limit theorem by
@@ -22,7 +22,7 @@ multiplier bootstrap under &theta;-dependence and mean-stationarity.
 
 <i>Keywords:</i> time series, weak dependence, sample splitting, central limit theorem, non-stationarity, bootstrap
 
-Robert Lunde and Cosma Rohilla Shalizi (2017). [Bootstrapping Generalization Error Bounds for Time Series.](https://arxiv.org/abs/1711.02834)  <i>In revision</i>.
+Robert Lunde and Cosma Rohilla Shalizi (2017). [Bootstrapping Generalization Error Bounds for Time Series.](https://arxiv.org/pdf/1711.02834.pdf)  <i>In revision</i>.
 
 <i>Summary:</i> We establish conditions under which a bootstrap estimator of the generalization error produces
 valid confidence intervals for the risk of a time series model.  We show that autoregressive models satisfy
