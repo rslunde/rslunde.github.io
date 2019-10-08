@@ -17,8 +17,7 @@ Robert Lunde (2019). [Sample Splitting and Weak Assumption Inference for Time Se
 <i>Summary:</i> We establish conditions under which sample splitting remains asymptotically valid under
 appropriate dependence conditions.  In addition, we establish a non-stationary central limit theorem by
 combining the Dependent Lindeberg Method of Bardet et al. (2008) with a phenemonon involving the variance of
-weakly dependent sequences.  Using this central limit theorem, we also prove the validity of a block-
-multiplier bootstrap under &theta;-dependence and mean-stationarity.   
+weakly dependent sequences.  Using this central limit theorem, we also prove the validity of a block-multiplier bootstrap under &theta;-dependence and mean-stationarity.   
 
 <i>Keywords:</i> time series, weak dependence, sample splitting, central limit theorem, non-stationarity, bootstrap
 
