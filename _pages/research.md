@@ -4,9 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 Robert Lunde and Purnamrita Sarkar (2019). Subsampling Sparse Graphons Under Minimal Assumptions. <i>Under review</i>. [Preprint](https://arxiv.org/pdf/1907.12528.pdf) 
-
-Summary: We establish a general theory of subsampling for sparse graphons; the main requirement is weak convergence of the functional of interest.  Under appropriate sparsity conditions, we also derive a central limit theorem for eigenvalues of sparse graphons, thereby establishing the validity of subsampling for eigenvalues.    
-
+<pre>
+Summary: We establish a general theory of subsampling for sparse graphons; the main requirement is weak convergence of the functional of interest.  Under appropriate sparsity conditions, we also derive a central limit theorem for eigenvalues of sparse graphons, thereby establishing the validity of subsampling for eigenvalues. 
+<\pre>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Keywords: networks, sparse graphons, subsampling,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eigenvalues, weak convergence  
 &nbsp;&nbsp;
