@@ -5,15 +5,13 @@ author_profile: true
 ---
 Robert Lunde and Purnamrita Sarkar (2019). Subsampling Sparse Graphons Under Minimal Assumptions. <i>Under review</i>. [Preprint](https://arxiv.org/pdf/1907.12528.pdf)   
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summary: We establish a general theory of subsampling for sparse graphons;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the main requirement is weak convergence of the functional of interest.    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under appropriate sparsity conditions, we also derive a central limit   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; theorem for eigenvalues of sparse graphons, thereby establishing the   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; validity of subsampling for eigenvalues. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Summary:</i> We establish a general theory of subsampling for sparse
+graphons; the main requirement is weak convergence of the functional of interest. Under appropriate sparsity
+conditions we also derive a central limit theorem for eigenvalues of sparse graphons, thereby establishing the
+validity of subsampling for eigenvalues. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Keywords: networks, sparse graphons, subsampling,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eigenvalues, weak convergence  
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Keywords:</i> networks, sparse graphons, subsampling, eigenvalues, weak convergence  
+
 
 
 Robert Lunde (2019). [Sample Splitting and Weak Assumption Inference for Time Series.](https://arxiv.org/abs/1902.07425)  <i>In revision</i>.  
