@@ -18,16 +18,17 @@ Robert Lunde (2019). [Sample Splitting and Weak Assumption Inference for Time Se
 <i>Summary:</i> We show that sample splitting remains asymptotically valid under
 appropriate dependence conditions.  In addition, we prove a non-stationary central limit theorem by
 combining the Dependent Lindeberg Method of Bardet et al. (2008) with a phenemonon involving the variance of
-weakly dependent sequences.  Using this central limit theorem, we also demonstrate the validity of a block-multiplier bootstrap under &theta;-dependence and mean-stationarity.   
+weakly dependent sequences.  Using this central limit theorem, we also demonstrate the validity of a block-
+multiplier bootstrap under &theta;-dependence and mean-stationarity.   
 
 <i>Keywords:</i> time series, weak dependence, sample splitting, central limit theorem, non-stationarity, bootstrap
 
 Robert Lunde and Cosma Rohilla Shalizi (2017). [Bootstrapping Generalization Error Bounds for Time Series.](https://arxiv.org/pdf/1711.02834.pdf)  <i>In revision</i>.
 
-<i>Summary:</i> We establish conditions under which a bootstrap estimator of the generalization error produces
-valid confidence intervals for the risk of a time series model.  We show that autoregressive models satisfy
-the conditions in our theorem even when the model is badly misspecified.  We also show that empirical
-processes formed by splitting a &beta;-mixing process in half are asympotically independent.  
+<i>Summary:</i> We establish conditions under which a bootstrap estimator of the generalization error may be
+used to construct valid confidence intervals for the risk of a time series model.  We show that autoregressive
+models satisfy the conditions in our theorem even when the model is badly misspecified.  We also show that
+empirical processes formed by splitting a &beta;-mixing process in half are asympotically independent.  
 
 <i>Keywords:</i> time series, statistical learning, empirical processes, bootstrap
 
