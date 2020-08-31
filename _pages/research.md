@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Qiaohui Lin, Robert Lunde, and Purnamrita Sarkar (2020). [On the Theoretical Properties of the Network Jackknife .](https://proceedings.icml.cc/static/paper_files/icml/2020/6137-Paper.pdf) <i>ICML 2020</i>.    
+Qiaohui Lin, Robert Lunde, and Purnamrita Sarkar (2020). [On the Theoretical Properties of the Network Jackknife.](https://proceedings.icml.cc/static/paper_files/icml/2020/6137-Paper.pdf) <i>ICML 2020</i>.    
 
 <i>Summary:</i> We study the properties of a leave-node-out jackknife procedure for network data.  Under the sparse graphon model, we prove an Efron-Stein type inequality, showing the jackknife estimate of the variance is conservative in expectation analogous to the independent setting.  We also establish consistency of the network jackknife for count functionals introduced by Bickel et al (2011).     
 
