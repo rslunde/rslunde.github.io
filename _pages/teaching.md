@@ -4,6 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 <br>
+<b>Lecturer</b>, University of Texas at Austin (Fall 2020)
+* SDS-321: Introduction to Probability and Statistics
+
 <b>Instructor</b>, Carnegie Mellon University (Summer 2017 & 2018)
 * 36-217: Probability Theory and Random Processes
     * Syllabus: [PDF](https://rslunde.github.io/files/36217-syllabus.pdf) 
