@@ -16,7 +16,7 @@ redirect_from:
 *  Prior to this, I was a postdoctoral scholar at the [Department of Statistics and Data Sciences](https://stat.utexas.edu) at [The University of Texas at Austin](https://www.utexas.edu), where I worked with [Purnamrita Sarkar](https://psarkar.github.io/).
 * I received my Ph.D. from the [Department of Statistics and Data Science](https://stat.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu/) in Fall 2018. My advisor was [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/).  
 * I am broadly interested in prediction and inference for data with complex dependence structures, such as networks and time series.  
-* A major aim of my research has been to study the properties of resampling methods such as the bootstrap, subsampling, and the jackknife in these settings.  
+* A major aim of my research has been to study the properties of resampling methods such as the bootstrap, subsampling, and the jackknife in these settings.   
 
 
 
