@@ -4,7 +4,9 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Statistics and Data Sciences, University of Texas at Austin<br>
-Gates-Dell Complex 7.504, 2317 Speedway D9800 Austin, Texas 78712-1823<br>
-Email: rlunde [at] utexas.edu
+Department of Statistics, University of Michigan <br>
+23 West Hall
+1085 South University
+Ann Arbor, MI 48109-1107 <br>
+Email: rlunde [at] umich.edu
 
