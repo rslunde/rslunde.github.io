@@ -3,10 +3,13 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Robert Lunde, Purnamrita Sarkar, and Rachel Ward (2021). [Bootstrapping the Error of Oja's Algorithm](https://arxiv.org/abs/2106.14857)<i>Accepted at Neurips 2021, Spotlight Talk</i>.  We establish a high-dimensional weighted chi-squared approximation for the the sine-squared error of Oja's algorithm, a widely used method for streaming PCA.  We also propose an online multiplier bootstrap method and establish consistency of the procedure.     
+Robert Lunde, Purnamrita Sarkar, and Rachel Ward (2021). [Bootstrapping the Error of Oja's Algorithm.](https://arxiv.org/abs/2106.14857) <i>Accepted at Neurips 2021, Spotlight Talk</i>. 
 
-Qiaohui Lin, Robert Lunde, and Purnamrita Sarkar (2020). [Trading off Accuracy for Speedup: Multiplier Bootstraps for Subgraph Counts
-.](https://arxiv.org/abs/2009.06170) <i>In revision</i>.
+<i>Summary:</i>
+We establish a high-dimensional weighted chi-squared approximation for the the sine-squared error of Oja's algorithm, a widely used method for streaming PCA.  We also propose an online multiplier bootstrap method and establish consistency of the procedure.     
+
+Qiaohui Lin, Robert Lunde, and Purnamrita Sarkar (2020). [Trading off Accuracy for Speedup: Multiplier Bootstraps for Subgraph Counts.](https://arxiv.org/abs/2009.06170) <i>In revision</i>.
+
 <i>Summary:</i> We propose a family of bootstrap procedures, ranging from a fast, randomized linear bootstrap for massive, sparse graphs to an accurate quadratic procedure for smaller graphs.  We establish conditions under which the randomized linear bootstrap offers consistent inference for an appropriate target distribution and conditions under which higher-order correctness holds for the quadratic bootstrap.       
 
 Qiaohui Lin, Robert Lunde, and Purnamrita Sarkar (2020). [On the Theoretical Properties of the Network Jackknife.](https://proceedings.icml.cc/static/paper_files/icml/2020/6137-Paper.pdf) <i>ICML 2020</i>.    
