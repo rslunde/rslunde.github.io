@@ -4,6 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 <br>
+
 <b>Instructor</b>, Washington University in St. Louis (Fall 2022)
 * MATH 494: Mathematical Statistics
 
