@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 <br>
-<b>Lecturer</b>, University of Texas at Austin (Fall 2020)
+<b>Instructor</b>, University of Texas at Austin (Fall 2020, Spring 2021)
 * SDS-321: Introduction to Probability and Statistics
 
 <b>Instructor</b>, Carnegie Mellon University (Summer 2017 & 2018)
