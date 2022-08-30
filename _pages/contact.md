@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-<br>
+</br>
 Department of Mathematics and Statistics
 Washington University in St. Louis
 One Brookings Drive
