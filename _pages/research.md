@@ -4,13 +4,13 @@ permalink: /research/
 author_profile: true
 ---
 
-Robert Lunde (2023). [On the Validity of Conformal Prediction for Network-Data Under Non-Uniform Sampling.](https://arxiv.org/abs/2306.07252). <i>In submission</i>.
+Robert Lunde (2023). [On the Validity of Conformal Prediction for Network-Data Under Non-Uniform Sampling](https://arxiv.org/abs/2306.07252). <i>In submission</i>.
 
 <i>Summary:</i>
 We consider the properties of conformal prediction for network data under various sampling schemes that often result in a non-representative sample of nodes.  We interepret sampling mechansims as selection events and show that conformal prediction remains finite-sample valid if the regression array is jointly exchangaeble and the selection rule satisfies an invariance property.  We also show that a weighted conformal prediction procedure is asymptotically valid for samples from a random walk on a graph under appropriate conditions.  
 
 
-Robert Lunde, Elizaveta Levina, and Ji Zhu (2023). [Conformal Prediction for Network-Assisted Regression.](https://arxiv.org/abs/2302.10095). <i>Major Revision, Journal of the American Statistical Association</i>.
+Robert Lunde, Elizaveta Levina, and Ji Zhu (2023). [Conformal Prediction for Network-Assisted Regression](https://arxiv.org/abs/2302.10095). <i>Major Revision, Journal of the American Statistical Association</i>.
 
 <i>Summary:</i>
 We study the properties for conformal prediction in regression problems with network information.  We show that conformal prediciton remains finite-sample valid in these settings under a joint exchangeability condition on a regression array and a mild symmetry condition on the network statistics.  We also show that a form of asymptotic conditional validity is achievable.   
