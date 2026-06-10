@@ -7,7 +7,7 @@ author_profile: true
 Robert Lunde, Minjie Yang, Elizaveta Levina, and Ji Zhu (2026) [Conformal Prediction For Dyadic Regression Under Complex Missingness](https://arxiv.org/abs/2606.11136).
 
 <i>Summary:</i>
-We study the properties of conformal prediction for dyadic regression, which includes the ubiquitous link prediction problem.  Under a joint exchangeability assumption the regression array and the missingness mechanism, we establish finite-sample validity of various conformal prediction procedures for sampled elements.  This result makes use of new machinery for conformal prediction beyond exchangeability, which we believe is of independent interest.  We also establish asymptotic validity of weighted conformal prediction for missing elements under a graphon missingness mechanism.
+We study the properties of conformal prediction for dyadic regression, which includes the ubiquitous link prediction problem.  Under a joint exchangeability assumption on the regression array and the missingness mechanism, we establish finite-sample validity of various conformal prediction procedures for sampled elements.  This result makes use of new machinery for conformal prediction beyond exchangeability, which we believe is of independent interest.  We also establish asymptotic validity of weighted conformal prediction for missing elements under a graphon missingness mechanism.
 
 
 
