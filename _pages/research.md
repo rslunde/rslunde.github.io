@@ -4,13 +4,33 @@ permalink: /research/
 author_profile: true
 ---
 
-Robert Lunde (2023). [On the Validity of Conformal Prediction for Network Data Under Non-Uniform Sampling](https://arxiv.org/abs/2306.07252). <i>In submission</i>.
+Robert Lunde, Minjie Yang, Elizaveta Levina, and Ji Zhu (2026) [Conformal Prediction For Dyadic Regression Under Complex Missingness](https://arxiv.org/abs/2606.11136).
+
+<i>Summary:</i>
+We study the properties of conformal prediction for dyadic regression, which includes the ubiquitous link prediction problem.  Under a joint exchangeability assumption the regression array and the missingness mechanism, we establish finite-sample validity of various conformal prediction procedures for sampled elements.  This result makes use of new machinery for conformal prediction beyond exchangeability, which we believe is of independent interest.  We also establish asymptotic validity of weighted conformal prediction for missing elements under a graphon missingness mechanism.
+
+
+
+
+
+Wei Li, Nilanjan Charkaborty, and Robert Lunde (2025). [Assumption-Lean Inference for Network-Linked Data](https://arxiv.org/abs/2510.00287). <i>Major Revision, Bernoulli</i>.
+
+<i>Summary:</i>
+In most regression problems involving network data, it is natural to posit that unobserved latent variables affect the response. In our view, this makes parametric modeling difficult to justify; to this end, we propose an assumption-lean paradigm for linear regression on network-linked data. We consider inference under a jointly exchangeable regression array. We establish an Aldous-Hoover representation for such arrays, which is of independent interest. Finally, we consider inference for subgraph frequencies and spectral embeddings; for the former, we show that explicitly correcting for network bias can lead to improvements over the OLS estimator.
+
+Ayoushman Bhattacharya,Nilanjan Charkaborty, and Robert Lunde (2025). [Statistical Inference for Subgraph Frequencies of Exchangeable Hyperedge Models
+](https://arxiv.org/abs/2508.13258).  <i>Major Revision, Journal of the Royal Statistical Society, Series B</i>. 
+
+<i>Summary:</i>
+In many applications, it is natural to view interactions rather than nodes as the fundamental units. Under an exchangeable hyperedge framework, we propose several notions of subgraph frequencies for hypergraphs, including novel edge-colored subgraphs that account for multiplicity. We derive the asymptotic normality of these statistics, explore their robustness to the omission of low-degree nodes, and study the asymptotic properties of a class of statistics without multiplicity.   
+
+
+Robert Lunde (2023). [On the Validity of Conformal Prediction for Network Data Under Non-Uniform Sampling](https://arxiv.org/abs/2306.07252). <i>Major Revision, Bernoulli</i>.
 
 <i>Summary:</i>
 We study the properties of conformal prediction for network data under various sampling schemes that often result in a non-representative sample of nodes.  We interpret these sampling mechanisms as selection rules and show that conformal prediction remains finite-sample valid if the regression array is jointly exchangeable and the selection rule satisfies an invariance property.  We also show that a weighted conformal prediction procedure is asymptotically valid for samples from a random walk on a graph under appropriate conditions.  
 
-
-Robert Lunde, Elizaveta Levina, and Ji Zhu (2023). [Conformal Prediction for Network-Assisted Regression](https://arxiv.org/abs/2302.10095). <i>Major Revision, Journal of the American Statistical Association</i>.
+Robert Lunde, Elizaveta Levina, and Ji Zhu (2025). [Conformal Prediction for Network-Assisted Regression](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2506198). <i> Journal of the American Statistical Association, 120(551), 1633–1644.</i>.
 
 <i>Summary:</i>
 We study the properties for conformal prediction in regression problems with network information.  We show that conformal prediciton remains finite-sample valid in these settings under a joint exchangeability condition on a regression array and a mild symmetry condition on the network statistics.  We also show that a form of asymptotic conditional validity is achievable.   
@@ -20,7 +40,7 @@ Robert Lunde, Purnamrita Sarkar, and Rachel Ward (2021). [Bootstrapping the Erro
 <i>Summary:</i>
 We establish a high-dimensional weighted chi-squared approximation for the the sine-squared error of Oja's algorithm, a widely used method for streaming PCA.  We also propose an online multiplier bootstrap method and establish consistency of the procedure.     
 
-Qiaohui Lin, Robert Lunde, and Purnamrita Sarkar (2020). [Trading off Accuracy for Speedup: Multiplier Bootstraps for Subgraph Counts.](https://arxiv.org/abs/2009.06170) <i>In submission</i>.
+Qiaohui Lin, Robert Lunde, and Purnamrita Sarkar (2020). [Trading off Accuracy for Speedup: Multiplier Bootstraps for Subgraph Counts.](https://arxiv.org/abs/2009.06170) <i>major revision, Statistica Sinica</i>.
 
 <i>Summary:</i> We propose a family of bootstrap procedures, ranging from a fast, randomized linear bootstrap for massive, sparse graphs to an accurate quadratic procedure for smaller graphs.  We establish conditions under which the randomized linear bootstrap offers consistent inference for an appropriate target distribution and conditions under which higher-order correctness holds for the quadratic bootstrap.       
 
@@ -28,7 +48,7 @@ Qiaohui Lin, Robert Lunde, and Purnamrita Sarkar (2020). [On the Theoretical Pro
 
 <i>Summary:</i> We study the properties of a leave-node-out jackknife procedure for network data.  Under the sparse graphon model, we prove an Efron-Stein type inequality, showing the jackknife estimate of the variance is conservative in expectation analogous to the independent setting.  We also establish consistency of the network jackknife for count functionals introduced by Bickel et al (2011).    
 
-Robert Lunde and Purnamrita Sarkar (2022). [Subsampling Sparse Graphons Under Minimal Assumptions.]([https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac032/6598813]) <i> Accepted at Biometrika. </i> [R code (zip)](https://rslunde.github.io/files/subsampling_graphons_code.zip)       
+Robert Lunde and Purnamrita Sarkar. [Subsampling Sparse Graphons Under Minimal Assumptions.]([https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac032/6598813]) <i> Biometrika, Volume 110, Issue 1, March 2023, Pages 15–32 </i> [R code (zip)](https://rslunde.github.io/files/subsampling_graphons_code.zip)       
 
 <i>Summary:</i> We establish a general theory for subsampling network data generated by the sparse
 graphon model; the main requirement is weak convergence of the functional of interest. Under appropriate
@@ -48,7 +68,7 @@ multiplier bootstrap under &theta;-dependence and mean-stationarity.
 
 <i>Keywords:</i> time series, weak dependence, sample splitting, central limit theorem, non-stationarity, bootstrap
 
-Robert Lunde and Cosma Rohilla Shalizi (2017). [Bootstrapping Generalization Error Bounds for Time Series.](https://arxiv.org/pdf/1711.02834.pdf).
+Robert Lunde and Cosma Rohilla Shalizi (2017). [Bootstrapping Generalization Error Bounds for Time Series.](https://arxiv.org/pdf/1711.02834.pdf), <i>major revision, Sankhya A</i>.
 
 <i>Summary:</i> We establish conditions under which a bootstrap estimator of the generalization error may be
 used to construct valid confidence intervals for the risk of a time series model.  We show that autoregressive
