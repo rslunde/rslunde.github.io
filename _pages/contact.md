@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Department of Mathematics and Statistics  
+Department of Statistics and Data Science  
 Washington University in St. Louis  
 One Brookings Drive  
 St. Louis, MO 63130-4899  
