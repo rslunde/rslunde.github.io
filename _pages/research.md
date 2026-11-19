@@ -20,13 +20,13 @@ Robert Lunde, Minjie Yang, Elizaveta Levina, and Ji Zhu (2026). [Conformal Predi
 We study the properties of conformal prediction for dyadic regression, which includes the ubiquitous link prediction problem.  Under a joint exchangeability assumption on the regression array and the missingness mechanism, we establish finite-sample validity of various conformal prediction procedures for sampled elements.  This result makes use of new machinery for conformal prediction beyond exchangeability, which we believe is of independent interest.  We also establish asymptotic validity of weighted conformal prediction for missing elements under a graphon missingness mechanism.
 
 
-Wei Li, Nilanjan Charkaborty, and Robert Lunde (2025). [Assumption-Lean Inference for Network-Linked Data](https://arxiv.org/abs/2510.00287). <i>Minor Revision, Bernoulli</i>.
+Wei Li, Nilanjan Charkaborty, and Robert Lunde (2025). [Assumption-Lean Inference for Network-Linked Data](https://arxiv.org/abs/2510.00287).  <i>Minor Revision, Bernoulli</i>.
 
 <i>Summary:</i>
 In most regression problems involving network data, it is natural to posit that unobserved latent variables affect the response. In our view, this makes parametric modeling difficult to justify; to this end, we propose an assumption-lean paradigm for linear regression on network-linked data. We consider inference under a jointly exchangeable regression array. We establish an Aldous-Hoover representation for such arrays, which is of independent interest. Finally, we consider inference for subgraph frequencies and spectral embeddings; for the former, we show that explicitly correcting for network bias can lead to improvements over the OLS estimator.
 
 Ayoushman Bhattacharya,Nilanjan Charkaborty, and Robert Lunde (2025). [Statistical Inference for Subgraph Frequencies of Exchangeable Hyperedge Models
-](https://arxiv.org/abs/2508.13258).  <i>Major Revision, Journal of the Royal Statistical Society, Series B</i>. 
+](https://arxiv.org/abs/2508.13258).  <i>Major Revision, Journal of the Royal Statistical Society, Series B.</i>
 
 <i>Summary:</i>
 In many applications, it is natural to view interactions rather than nodes as the fundamental units. Under an exchangeable hyperedge framework, we propose several notions of subgraph frequencies for hypergraphs, including novel edge-colored subgraphs that account for multiplicity. We derive the asymptotic normality of these statistics, explore their robustness to the omission of low-degree nodes, and study the asymptotic properties of a class of statistics without multiplicity.   
@@ -47,7 +47,7 @@ Robert Lunde, Purnamrita Sarkar, and Rachel Ward (2021). [Bootstrapping the Erro
 <i>Summary:</i>
 We establish a high-dimensional weighted chi-squared approximation for the the sine-squared error of Oja's algorithm, a widely used method for streaming PCA.  We also propose an online multiplier bootstrap method and establish consistency of the procedure.     
 
-Qiaohui Lin, Wei Li, Robert Lunde, and Purnamrita Sarkar (2020). [Trading off Accuracy for Speedup: Multiplier Bootstraps for Subgraph Counts.](https://arxiv.org/abs/2009.06170) <i>minor revision, Statistica Sinica</i>.
+Qiaohui Lin, Wei Li, Robert Lunde, and Purnamrita Sarkar (2020). [Trading off Accuracy for Speedup: Multiplier Bootstraps for Subgraph Counts.](https://arxiv.org/abs/2009.06170) <i>Minor revision, Statistica Sinica</i>.
 
 <i>Summary:</i> We propose a family of bootstrap procedures, ranging from a fast, randomized linear bootstrap for massive, sparse graphs to an accurate quadratic procedure for smaller graphs.  We establish conditions under which the randomized linear bootstrap offers consistent inference for an appropriate target distribution and conditions under which higher-order correctness holds for the quadratic bootstrap.       
 
@@ -75,7 +75,7 @@ multiplier bootstrap under &theta;-dependence and mean-stationarity.
 
 <i>Keywords:</i> time series, weak dependence, sample splitting, central limit theorem, non-stationarity, bootstrap
 
-Robert Lunde and Cosma Rohilla Shalizi (2026). [Bootstrapping Generalization Error Bounds for Time Series.](https://arxiv.org/pdf/1711.02834.pdf), <i>Sankhya A</i>.
+Robert Lunde and Cosma Rohilla Shalizi (2026). [Bootstrapping Generalization Error Bounds for Time Series](https://arxiv.org/pdf/1711.02834.pdf), <i>Sankhya A</i>.
 
 <i>Summary:</i> We establish conditions under which a bootstrap estimator of the generalization error may be
 used to construct valid confidence intervals for the risk of a time series model.  We show that autoregressive
