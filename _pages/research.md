@@ -12,7 +12,7 @@ The degree distribution is one of the most widely used summary statistics in net
 Wei Li and Robert Lunde (2026). [Central Limit Theorems and Network-Free Inference for Heterogeneous Spatial Autoregressions on Sparse Graphons.](https://arxiv.org/abs/2610.40630)  
 
 <i>Summary:</i>
-We derive central limit theorems for the sample mean of a heterogeneous spatial autoregression on a sparse graphon. When the sample is a negligible fraction of the superpopulation, we show that the asymptotic variance is the same as under independence, and that the sample variance is consistent. The fact that this phenomenon holds for a spatial autoregression, which represents a challenging form of dependence, suggests that network dependence may be much less of an obstacle to inference than commonly believed: when the network is treated as random and the sample is small relative to the population, the ordinary confidence interval remains valid without any knowledge of the network.     
+We derive central limit theorems for the sample mean of a heterogeneous spatial autoregression on a sparse graphon. When the sample is a negligible fraction of the superpopulation, we show that the asymptotic variance is the same as under independence, and that the sample variance is consistent. The fact that this phenomenon holds for a spatial autoregression, which represents a challenging form of dependence, suggests that network dependence may be much less of an obstacle to inference than commonly believed: when the network is treated as random and the sample is small relative to the population, the ordinary Normal confidence interval remains asymptotically valid without any knowledge of the network.     
 
 Robert Lunde, Minjie Yang, Elizaveta Levina, and Ji Zhu (2026). [Conformal Prediction For Dyadic Regression Under Complex Missingness](https://arxiv.org/abs/2606.11136).
 
@@ -37,7 +37,7 @@ Robert Lunde (2026). [On the Validity of Conformal Prediction for Network Data U
 <i>Summary:</i>
 We study the properties of conformal prediction for network data under various sampling schemes that often result in a non-representative sample of nodes.  We interpret these sampling mechanisms as selection rules and show that conformal prediction remains finite-sample valid if the regression array is jointly exchangeable and the selection rule satisfies an invariance property.  We also show that a weighted conformal prediction procedure is asymptotically valid for samples from a random walk on a graph under appropriate conditions.  
 
-Robert Lunde, Elizaveta Levina, and Ji Zhu (2025). [Conformal Prediction for Network-Assisted Regression](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2506198). <i> Journal of the American Statistical Association, 120(551), 1633–1644.</i>.
+Robert Lunde, Elizaveta Levina, and Ji Zhu (2025). [Conformal Prediction for Network-Assisted Regression](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2506198). <i> Journal of the American Statistical Association, 120(551), 1633–1644.</i>
 
 <i>Summary:</i>
 We study the properties for conformal prediction in regression problems with network information.  We show that conformal prediciton remains finite-sample valid in these settings under a joint exchangeability condition on a regression array and a mild symmetry condition on the network statistics.  We also show that a form of asymptotic conditional validity is achievable.   
