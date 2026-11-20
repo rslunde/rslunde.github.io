@@ -5,8 +5,12 @@ author_profile: true
 ---
 <br>
 
-<b>Instructor</b>, Washington University in St. Louis (Fall 2022)
-* MATH 494: Mathematical Statistics
+<b>Instructor</b>, Washington University in St. Louis (Fall 2022-present)
+* SDS 4020/5020: Mathematical Statistics
+* SDS 4392: Generalized Linear Models
+* SDS 462: Mathematical Foundations of Big Data
+* SDS 5010: Probability
+* SDS 586: Statistical Network Analysis
 
 <b>Instructor</b>, University of Texas at Austin (Fall 2020 & Spring 2021)
 * SDS-321: Introduction to Probability and Statistics
